@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "test script",
+  "author": "youkyll",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "commander": "^2.7.1",
+    "evernote": "^1.25.4",
+    "xhr": "^2.0.1"
+  },
+  "bin": {
+    "test-node": "test.js"
+  }
+}
